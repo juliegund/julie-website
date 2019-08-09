@@ -5,7 +5,7 @@ draft: false
 img: "images/blog/you-cant-buy-devops.jpg"
 ---
 Making a move to [DevOps](https://opensource.com/resources/devops) can be a daunting undertaking, with many organizations not knowing the right place to start. I recently had some fun taking a few "DevOps assessments" to see what solutions they offered. I varied my answers—from an organization that fully embraces DevOps to one at the beginning of the journey. Some of the assessments provided real value, linking me back to articles on culture and methodologies, while others merely offered me a tool promising to bring all my DevOps dreams into reality.
-
+<!--more-->
 Tools are absolutely essential to the DevOps journey; for instance, tools can continuously deliver, automate, or monitor your environment. However, **DevOps is not a product**, and tools alone will not enable the processes necessary to realize the full value of DevOps. People are what matter most; you can't do DevOps without building the people, mindset, and culture first.
 
 ## Don't 'win' at DevOps; become a champion
@@ -19,7 +19,7 @@ One of my favorite examples of DevOps tooling is XebiaLabs' [Periodic Table of D
 [![Periodic Table of DevOps Tools](/images/blog/periodic-table-of-devops-tools.png)](https://xebialabs.com/periodic-table-of-devops-tools/)
 
 The table shows that numerous tools fit into DevOps. However, too many times, I have heard about organizations "transforming to DevOps" by purchasing tools. While tooling is an essential part of the DevOps journey, a tool alone does not create a DevOps environment. You have to consider all the factors that make a DevOps team function well: collaboration, breaking down silos, defined processes, ownership, and automation, along with continuous improvement/continuous delivery.
-<!--more-->
+
 Deciding to purchase tooling is a great step in the right direction; what is more important is to define the "why" or the end goal behind decisions first. Which brings us back to the mentality of a champion; look at Olympic gold medalist Michael Phelps, for example. Phelps is the most decorated Olympian of all time and holds 39 world records. To achieve these accomplishments, Phelps didn't stop at one, two, or even 20 wins; he aimed to be a champion. This was all done through commitment, practice, and focusing on the desired end state.
 
 ## DevOps defined
