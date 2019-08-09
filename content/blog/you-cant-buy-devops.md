@@ -19,7 +19,7 @@ One of my favorite examples of DevOps tooling is XebiaLabs' [Periodic Table of D
 [![Periodic Table of DevOps Tools](/images/blog/periodic-table-of-devops-tools.png)](https://xebialabs.com/periodic-table-of-devops-tools/)
 
 The table shows that numerous tools fit into DevOps. However, too many times, I have heard about organizations "transforming to DevOps" by purchasing tools. While tooling is an essential part of the DevOps journey, a tool alone does not create a DevOps environment. You have to consider all the factors that make a DevOps team function well: collaboration, breaking down silos, defined processes, ownership, and automation, along with continuous improvement/continuous delivery.
-
+<!--more-->
 Deciding to purchase tooling is a great step in the right direction; what is more important is to define the "why" or the end goal behind decisions first. Which brings us back to the mentality of a champion; look at Olympic gold medalist Michael Phelps, for example. Phelps is the most decorated Olympian of all time and holds 39 world records. To achieve these accomplishments, Phelps didn't stop at one, two, or even 20 wins; he aimed to be a champion. This was all done through commitment, practice, and focusing on the desired end state.
 
 ## DevOps defined
